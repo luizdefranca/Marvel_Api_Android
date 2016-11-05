@@ -1,61 +1,54 @@
 package com.example.android.marvelheroes;
 
 import android.os.AsyncTask;
+import android.support.v4.app.LoaderManager;
+import android.support.v4.content.Loader;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.ListView;
 
 import com.example.android.marvelheroes.adapters.CharacterAdapter;
 import com.example.android.marvelheroes.http.CharactersParser;
+import com.example.android.marvelheroes.http.CharactersSearchTask;
 import com.example.android.marvelheroes.model.Character;
 import com.example.android.marvelheroes.model.Data;
 
 import java.io.IOException;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+import static android.icu.lang.UCharacter.GraphemeClusterBreak.L;
 
-    ListView mListCharacters;
+public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<List<Character>> {
+
+    ListView mListViewCharacters;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mListCharacters = (ListView) findViewById(R.id.list_characters);
-        new CharacterSearchTask().execute("spider");
+        mListViewCharacters = (ListView) findViewById(R.id.list_characters);
+        LoaderManager loaderManager = getSupportLoaderManager();
+        loaderManager.initLoader(0, null, this);
     }
 
-    class CharacterSearchTask extends AsyncTask<String, Void, List<Character>>{
+    @Override
+    public Loader<List<Character>> onCreateLoader(int id, Bundle args) {
 
-        @Override
-        protected List<Character> doInBackground(String... params) {
-            try {
-                Data data = CharactersParser.searchByName(params[0]);
-                List<Character> characters = data.charactersList;
-//                for(Character character: characters){
-//                    Log.d("NGVL", "name --> " + character.name);
-//                    Log.d("NGVL", "description --> " + character.description);
-//                    Log.d("NGVL", "url --> " + character.thumbnail.path);
-//                    Log.d("NGVL", "extension --> " + character.thumbnail.extension);
-//
-//                }
-                return characters;
-            } catch (IOException e) {
+        return new CharactersSearchTask(this, "iron");
+    }
 
-            }
+    @Override
+    public void onLoadFinished(Loader<List<Character>> loader, List<Character> data) {
+        if (data != null) {
+            mListViewCharacters.setAdapter(new CharacterAdapter(MainActivity.this, data));
 
-            return null;
-        }
-
-        @Override
-        protected void onPostExecute(List<Character> characters) {
-            super.onPostExecute(characters);
-            if (characters != null) {
-                mListCharacters.setAdapter(new CharacterAdapter(MainActivity.this, characters));
-
-            }
         }
     }
+
+    @Override
+    public void onLoaderReset(Loader<List<Character>> loader) {
+
+    }
+
 }
