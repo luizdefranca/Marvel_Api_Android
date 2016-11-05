@@ -1,0 +1,7 @@
+#Sat Nov 05 10:12:09 BRT 2016
+base.0=/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7999bd25a747fb7640e01c46ce291c5d1b8810b9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f2b493fe9551ce90187bf5a82d2efcb53089aa61/classes.dex
+base.1=/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f2b493fe9551ce90187bf5a82d2efcb53089aa61
+file.0=/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7999bd25a747fb7640e01c46ce291c5d1b8810b9/classes.dex

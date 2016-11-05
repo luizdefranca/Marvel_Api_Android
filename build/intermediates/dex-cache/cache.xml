@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_4614355cb025a3cebd567102414d5bb6c0cdd85f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a8d733c086aaf7fd81ded8b222bcedc16c03475">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f2b493fe9551ce90187bf5a82d2efcb53089aa61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_bf53e68d5f773e9bc8d4d4a6bf3ef84266586030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7d39b37630f5214788877b6ab5592fe1dc89865c">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7999bd25a747fb7640e01c46ce291c5d1b8810b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9fb2396054b0b22dab66d1bdee233d9608191dd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d1436ee5bf860b5bf150a2c50acb386bb8dc5add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_11ade5fab1d4e7026945db7933d6001bcbd938b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_5eadaa6eb1f43c60fffa5dae3416d53e558edca7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_c4e671315e01109250e844a0e6d4a840cc1513e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_7a682596a6c8dae42ec5bd56df1390f8a72d76e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_38bb1405bf179d0076307f799a501716d4698405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_0061f643aa16768c25decb2acad202790bcec259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_14484af9ddb6d5bdad9aaa17ef9c1b531927133f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fb6d52b9be114586073a43ae4b05ca5913858100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_7f647215416a6af62e282ee4d8a4aab572e1d9d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_f338f4fb13331b2a60628847380670d84ac3f31d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_c8a1b8230c62d4f145e170eac8b03d5836583364/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f0939fe9ce54eddcd28fa130997d652cd58cfa3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0e78c5fdd58502cb055a491800b9734838cb99d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c83b4f11abd9d9de25d65a6e8a283562cc6bfc78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_9d2b527a418b03dec4361d2b18cc917d3fb42d04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_06248cfd11bef16eeae74685e3bccd9ff20066ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_cfdcdf33e69648869c338d1faeb7019487349f08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_89a6091ac3988450acbdd627bcf68425854da388/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_e905b5790f7a73ef7fc9369dcba98772fdeb6372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_f81b1609a4d2f9352277f0997794434196262ec0/classes.dex" />
+    </item>
+
+</items>
