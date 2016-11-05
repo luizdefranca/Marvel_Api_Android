@@ -5,16 +5,16 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="34674808532055"
+    timestamp="35546856172294"
     token="-5243825996220347771"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
         duration="0" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="469" />
     <task
         name="instant-run-transform"
         duration="0" />
@@ -23,8 +23,11 @@
         duration="0" />
 
     <artifact
-        location="/Users/luizramos/Downloads/MarvelHeroes/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         timestamp="34674808532055"
@@ -32,6 +35,16 @@
         <artifact
             location="/Users/luizramos/Downloads/MarvelHeroes/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="35546856172294"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
