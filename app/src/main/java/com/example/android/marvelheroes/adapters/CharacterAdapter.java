@@ -26,7 +26,8 @@ public class CharacterAdapter extends ArrayAdapter<Character>{
         super(context, 0, characters);
 
     }
-
+    public static final String SMALL_PORTRAIT = "portrait_small"; //Small portrait image sizead
+    public static final String MEDIUM_PORTRAIT = "portrait_medium";
     String mName;
     String mDescription;
     String mPath;
@@ -55,7 +56,10 @@ public class CharacterAdapter extends ArrayAdapter<Character>{
         mDescription = character.description;
         mPath = character.thumbnail.path;
         mExtension = character.thumbnail.extension;
-        internetUrl = mPath + "/portrait_medium." + mExtension;
+        //StringBuilder
+        internetUrl = mPath + "/" + MEDIUM_PORTRAIT + "." + mExtension;
+
+
         characterViewHolder.mName.setText(mName);
         characterViewHolder.mDescription.setText(mDescription);
 

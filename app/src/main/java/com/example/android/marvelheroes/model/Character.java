@@ -21,6 +21,7 @@ public class Character {
     public String description;
     @SerializedName("thumbnail")
     public Thumbnail thumbnail;
-
+   @SerializedName("urls")
+    public ArrayList<Url> urls;
 
 }

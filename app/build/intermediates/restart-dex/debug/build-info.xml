@@ -5,46 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="35546856172294"
-    token="-5243825996220347771"
-    verifier="COMPATIBLE" >
+    timestamp="26213964353744"
+    token="-8297264001293707699"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1508" />
     <task
         name="instant-run-dex"
-        duration="469" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="356" />
     <task
         name="verifier"
-        duration="0" />
+        duration="37" />
 
     <artifact
-        location="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="34674808532055"
+        timestamp="26213964353744"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/luizramos/Downloads/MarvelHeroes/app/build/outputs/apk/app-debug.apk"
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="35546856172294"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/luizramos/Downloads/MarvelHeroes/app/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

@@ -20,7 +20,7 @@ import static android.provider.ContactsContract.CommonDataKinds.Website.URL;
  */
 
 public class CharactersParser {
-    public static final String URL_SEARCH = "https://gateway.marvel.com:443/v1/public/characters?nameStartsWith=%s&ts=12321&apikey=4ba91b7387292017df2ef6d0f93e78b3&hash=ed64bda8bdd12e45f51a6f7f1be5be98";
+    public static final String URL_SEARCH = "https://gateway.marvel.com:443/v1/public/characters?nameStartsWith=%s&limit=10&ts=12321&apikey=4ba91b7387292017df2ef6d0f93e78b3&hash=ed64bda8bdd12e45f51a6f7f1be5be98";
 
     public static Data searchByName(String query) throws IOException {
         OkHttpClient client = new OkHttpClient();

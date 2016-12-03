@@ -20,7 +20,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CharacterDetail"></activity>
+        <activity android:name=".CharacterDetail_old" />
+        <activity
+            android:name=".CharacterDetailActivity"
+            android:label="@string/title_activity_character_detail"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/MyTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.marvelheroes.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

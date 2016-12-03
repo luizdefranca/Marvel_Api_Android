@@ -35,7 +35,7 @@ public class CharactersSearchTask extends AsyncTaskLoader<List<Character>> {
     @Override
     public List<Character> loadInBackground() {
         try {
-            mCharacters = (List<Character>) CharactersParser.searchByName(mQuery);
+            mCharacters =  CharactersParser.searchByName(mQuery).charactersList;
         } catch (IOException e) {
             e.printStackTrace();
         }
