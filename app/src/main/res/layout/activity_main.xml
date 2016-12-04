@@ -6,16 +6,11 @@
     android:layout_height="match_parent"
     android:background="@drawable/marvel_wallpaper"
     tools:context="com.example.android.marvelheroes.MainActivity"
-    android:textAlignment="gravity"
+    android:textAlignment="gravity">
 
-
-    >
-
-    <ListView
+    <fragment
+        android:id="@+id/fragment_character_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/list_characters"
-        android:animationCache="true"
-        android:layout_margin="18dp"
-        />
-    </RelativeLayout>
+        android:name="com.example.android.marvelheroes.CharacterListFragment" />
+</RelativeLayout>

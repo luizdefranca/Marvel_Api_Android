@@ -214,7 +214,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="5d6b69172d24846d194b88e7cfa85c752976501c">
+        sha1="12c6c39ac00b5c03a8405fd9112c4438c7baf244">
         <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_627e33a662f51fec725dd46961a76854d13091f7/classes.dex" />
     </item>
     <item
@@ -223,7 +223,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7369392e03cea8b5bc0916cf28748708ae712174">
+        sha1="9bf36204ed9aba6e204a6c5abec54522147cdc2f">
         <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c2a00509fff39beecc56219de2eacb3b72346cd2/classes.dex" />
     </item>
     <item
