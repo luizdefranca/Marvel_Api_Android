@@ -1,12 +1,8 @@
 package com.example.android.marvelheroes.model;
 
-import android.os.Parcel;
-import android.os.Parcelable;
-
 import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by luizramos on 05/11/16. */
@@ -14,7 +10,7 @@ import java.util.List;
 public class Character {
 
     @SerializedName("id")
-    public int id;
+    public int idCharacter;
     @SerializedName("name")
     public String name;
     @SerializedName("description")
@@ -24,4 +20,27 @@ public class Character {
    @SerializedName("urls")
     public ArrayList<Url> urls;
 
+    private String mediumImage;
+    private String landScapeImage;
+
+    public String getLandScapeImage(){
+        String path = thumbnail.getPath();
+        String extension = thumbnail.getExtension();
+        String fullAddress = path+"/landscape_large."+ extension;
+
+        return fullAddress;
+    }
+
+    public String getMediumImage(){
+        String path = thumbnail.getPath();
+        String extension = thumbnail.getExtension();
+        String fullAdress = path+"/portrait_medium."+ extension;
+
+        return fullAdress;
+    }
+
+    //TODO Fazer método para pegar a url pelo tipo de retorno
+    public String getUrlByType(String type){
+        return null;
+    }
 }

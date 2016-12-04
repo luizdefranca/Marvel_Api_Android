@@ -11,20 +11,20 @@ import com.google.gson.annotations.SerializedName;
 public class Thumbnail implements Parcelable{
 
     @SerializedName("path")
-    public String path;
+    private String path;
 
     @SerializedName("extension")
-    public String extension;
+    private String extension;
 
     protected Thumbnail(Parcel in) {
-        path = in.readString();
-        extension = in.readString();
+        setPath(in.readString());
+        setExtension(in.readString());
     }
 
     @Override
     public void writeToParcel(Parcel dest, int flags) {
-        dest.writeString(path);
-        dest.writeString(extension);
+        dest.writeString(getPath());
+        dest.writeString(getExtension());
     }
 
     @Override
@@ -43,4 +43,20 @@ public class Thumbnail implements Parcelable{
             return new Thumbnail[size];
         }
     };
+
+    public String getPath() {
+        return path;
+    }
+
+    public void setPath(String path) {
+        this.path = path;
+    }
+
+    public String getExtension() {
+        return extension;
+    }
+
+    public void setExtension(String extension) {
+        this.extension = extension;
+    }
 }

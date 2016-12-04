@@ -1,5 +1,6 @@
 package com.example.android.marvelheroes;
 
+import android.content.Intent;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.Loader;
 import android.support.v4.view.MenuItemCompat;
@@ -8,7 +9,10 @@ import android.os.Bundle;
 import android.support.v7.widget.SearchView;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import com.example.android.marvelheroes.adapters.CharacterAdapter;
 import com.example.android.marvelheroes.http.CharactersSearchTask;
@@ -28,7 +32,22 @@ public class MainActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //Instancia o ListView
         mListViewCharacters = (ListView) findViewById(R.id.list_characters);
+
+        //Cria evento de click no ListView
+        mListViewCharacters.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Character character = (Character) mListViewCharacters.getItemAtPosition(position);
+
+                Intent intent = new Intent(MainActivity.this, CharacterDetailActivity.class);
+                intent.putExtra("id", Integer.toString(character.idCharacter));
+                startActivity(intent);
+
+            }
+        });
+
         mLoaderManager = getSupportLoaderManager();
 
         mLoaderManager.initLoader(0, null, this);
@@ -45,6 +64,8 @@ public class MainActivity extends AppCompatActivity
         if (data != null) {
             mListViewCharacters.setAdapter(new CharacterAdapter(MainActivity.this, data));
 
+        } else{
+            Toast.makeText(this, "Server with trouble!",Toast.LENGTH_SHORT);
         }
     }
 

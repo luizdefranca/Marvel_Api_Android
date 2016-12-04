@@ -5,33 +5,138 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="26213964353744"
+    timestamp="53426024720887"
     token="-8297264001293707699"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1508" />
-    <task
-        name="instant-run-dex"
-        duration="0" />
-    <task
-        name="instant-run-transform"
         duration="356" />
     <task
+        name="instant-run-dex"
+        duration="58" />
+    <task
+        name="instant-run-transform"
+        duration="36" />
+    <task
         name="verifier"
-        duration="37" />
+        duration="2" />
 
     <artifact
-        location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="26213964353744"
+        timestamp="49765768825168"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="50635379649822"
+        verifier="FIELD_ADDED" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="52475438194322"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="52575664563412"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/52575664563412/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="52607149534489"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/52607149534489/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="52664781036259"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/52664781036259/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="52751147893679"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/52751147893679/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53107879847766"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/53107879847766/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53265249064941"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/53265249064941/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53287978182498"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/53287978182498/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53303169321593"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/53303169321593/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53323904096266"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/53323904096266/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53339651914867"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/53339651914867/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53356546847754"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/53356546847754/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53390790751895"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/builds/debug/53390790751895/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="53426024720887"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

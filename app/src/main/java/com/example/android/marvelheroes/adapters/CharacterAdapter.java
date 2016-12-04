@@ -54,8 +54,8 @@ public class CharacterAdapter extends ArrayAdapter<Character>{
 
         mName = character.name;
         mDescription = character.description;
-        mPath = character.thumbnail.path;
-        mExtension = character.thumbnail.extension;
+        mPath = character.thumbnail.getPath();
+        mExtension = character.thumbnail.getExtension();
         //StringBuilder
         internetUrl = mPath + "/" + MEDIUM_PORTRAIT + "." + mExtension;
 

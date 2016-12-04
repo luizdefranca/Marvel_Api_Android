@@ -7,9 +7,34 @@ import com.google.gson.annotations.SerializedName;
  */
 public class Url {
     @SerializedName("type")
-    public String type;
+    private String type;
 
     @SerializedName("url")
-    public String url;
+    private String url;
 
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public String getUrl() {
+        return url;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+
+    public boolean isTypeADetail(){
+        return  "detail" == type;
+    }
+    public boolean isTypeAWiki(){
+        return  "wiki" == type;
+    }
+    public boolean isTypeAComicLink(){
+        return  "comiclink" == type;
+    }
 }
