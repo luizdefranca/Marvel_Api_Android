@@ -36,8 +36,16 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onCharacterClick(Character character) {
-        Intent intent = new Intent(this, CharacterDetailActivity.class);
-                intent.putExtra("id", Integer.toString(character.idCharacter));
-                startActivity(intent);
+        if(getResources().getBoolean(R.bool.phone)) {
+            Intent intent = new Intent(this, CharacterDetailActivity.class);
+            intent.putExtra("id", Integer.toString(character.idCharacter));
+            startActivity(intent);
+        }else{
+            DetailMovieFragment detailMovieFragment = DetailMovieFragment.newInstance(Integer.toString(character.idCharacter));
+            getSupportFragmentManager()
+                    .beginTransaction()
+                    .replace(R.id.content_character_detail, detailMovieFragment,  "detail")
+                    .commit();
+        }
     }
 }
