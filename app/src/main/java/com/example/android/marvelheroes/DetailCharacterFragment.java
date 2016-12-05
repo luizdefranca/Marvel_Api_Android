@@ -8,7 +8,6 @@ import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.Loader;
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
@@ -22,26 +21,24 @@ import com.bumptech.glide.Glide;
 import com.example.android.marvelheroes.http.CharacterSearchByIdTask;
 import com.example.android.marvelheroes.model.Character;
 
-import static com.example.android.marvelheroes.R.id.fab;
-
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class DetailMovieFragment extends Fragment implements LoaderManager.LoaderCallbacks<Character> {
+public class DetailCharacterFragment extends Fragment implements LoaderManager.LoaderCallbacks<Character> {
 
     WebView webview;
     ImageView mImageDetail;
 
-    public static DetailMovieFragment newInstance(String id){
+    public static DetailCharacterFragment newInstance(String id){
         Bundle bundle = new Bundle();
         bundle.putString("id", id);
-        DetailMovieFragment detailMovieFragment = new DetailMovieFragment();
-        detailMovieFragment.setArguments(bundle);
-        return detailMovieFragment;
+        DetailCharacterFragment detailCharacterFragment = new DetailCharacterFragment();
+        detailCharacterFragment.setArguments(bundle);
+        return detailCharacterFragment;
     }
 
-    public DetailMovieFragment() {
+    public DetailCharacterFragment() {
 
     }
 
@@ -49,7 +46,7 @@ public class DetailMovieFragment extends Fragment implements LoaderManager.Loade
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_detail_movie, container, false);
+        View view = inflater.inflate(R.layout.fragment_detail_character, container, false);
 
         if(getResources().getBoolean(R.bool.phone)){
             Toolbar toolbar = (Toolbar) view.findViewById(R.id.toolbar);
