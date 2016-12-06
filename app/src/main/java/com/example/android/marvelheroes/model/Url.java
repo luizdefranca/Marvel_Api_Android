@@ -12,6 +12,11 @@ public class Url {
     @SerializedName("url")
     private String url;
 
+    public Url(String type, String url){
+        this.type = type;
+        this.url = url;
+    }
+
     public String getType() {
         return type;
     }

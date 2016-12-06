@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/activity_main.xml",
-        "source": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/src/main/res/layout-sw600dp/activity_main.xml"
+        "merged": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/activity_main.xml",
+        "source": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/src/main/res/layout-sw600dp/activity_main.xml"
     },
     {
-        "merged": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/fragment_detail_movie.xml",
-        "source": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/src/main/res/layout-sw600dp/fragment_detail_movie.xml"
+        "merged": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/fragment_detail_character.xml",
+        "source": "/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/src/main/res/layout-sw600dp/fragment_detail_character.xml"
     }
 ]

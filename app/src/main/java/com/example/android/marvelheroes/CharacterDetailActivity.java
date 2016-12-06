@@ -24,7 +24,7 @@ public class CharacterDetailActivity extends AppCompatActivity  {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_character_detail);
         String id = getIntent().getStringExtra("id");
-        DetailMovieFragment detailMovieFragment = DetailMovieFragment.newInstance(id);
+        DetailCharacterFragment detailMovieFragment = DetailCharacterFragment.newInstance(id);
         getSupportFragmentManager()
                 .beginTransaction()
                 .replace(R.id.content_character_detail, detailMovieFragment,  "detail")

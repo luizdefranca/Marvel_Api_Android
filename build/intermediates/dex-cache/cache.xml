@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_7503e7e22212e31be274436d2bde34f9c1ccd6b7/classes.dex" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_80f622cb6cbfd87ae154248aa19063ddee9b90e8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -17,43 +17,52 @@
         optimize="true"
         revision="24.0.3"
         sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_4614355cb025a3cebd567102414d5bb6c0cdd85f/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_4614355cb025a3cebd567102414d5bb6c0cdd85f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_adcd737599a82fc03ac362f0ddfd1c35c90e9b8b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_1ead6b34453af4ce766e87876442a82909525f62/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_621b5db7eed8a5826fa8d3d1ae88e822fadee3cb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6127a18a90c146ef48f733a376eca45848554fbe/classes.dex" />
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_5359c0630886ace7aff09c7ab7d07ba2b1910b9d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_be3ea281c8ae740ef46b2e0ed8572c9b96c5beb1/classes.dex" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2f45c73afa47264b083128ef7db7d3499f8e8ccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_4f422b7f819c083f7df8134a9d1664f005d78a2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_104b57ec5a474d520e4773ae48155d98614381b1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -62,7 +71,16 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d1436ee5bf860b5bf150a2c50acb386bb8dc5add/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d1436ee5bf860b5bf150a2c50acb386bb8dc5add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_697d3cb0f99bd857aff5b716be4ee01ef7350240/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -71,7 +89,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_11ade5fab1d4e7026945db7933d6001bcbd938b9/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_11ade5fab1d4e7026945db7933d6001bcbd938b9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -80,151 +98,52 @@
         optimize="true"
         revision="24.0.3"
         sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_5eadaa6eb1f43c60fffa5dae3416d53e558edca7/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_5eadaa6eb1f43c60fffa5dae3416d53e558edca7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_273dd5da7e7ed17964eafb486e12ee0a8f0c2f73/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d2ac5a973feaec743f568c208b254b4cdb92571d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_bceaec41e62fb77c3b5955986c62e6002c6973e8/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_37cf31fbcb5643e132aa323a41900e42870eecda/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d8d3a0496151c37a4dc55d454cb6e13c80eea5d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_7548d72662bc2ebff8a2e695bb53ab61f2bffe1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2c1c8522cb94699bdb99889cbb114135dda255e7/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_775374e2db458f57db70bd501be6d2fa4ecfa41f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8eadce7da763364432b3a19114cc033a8c123443/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_0ae07a62950ceb3553c4703c8d1671cb53104a8d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8b04b6b1d3e6f3c5c3cd5f14898ce413d0a19fff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_47e48ad88d66e8c42a4fa792eac7ba522ebd35a7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_9191ef639967e2e4cf1a58fe37018eff6d89ce4d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_05e12d2fc4e55ad2ab6bfaf812bbea1e55d424c9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_5109b9e6bec20fd7518c2217e47c145fc303258d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_646209a836d7e449eab1e20fe3cb1bd455b0a30f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d2311939864e43084bb7b97c21318f14a928b35e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_16ee2abd13a6e4d8144197599ecb26d4e604852f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c20efd6785f14cd3e699ca709a539666ca0a36cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e8572af5f646e89562d05b69f31aa27075af2805/classes.dex" />
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_881699cd08f91cb546b8065bd6070090c1206afd/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -233,43 +152,43 @@
         optimize="true"
         revision="24.0.3"
         sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_9d2b527a418b03dec4361d2b18cc917d3fb42d04/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_9d2b527a418b03dec4361d2b18cc917d3fb42d04/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_3895f75c329310c43ae21a5fff7eb7395e3bdaad/classes.dex" />
+        sha1="79fbd3b4bd20a3740fb52361b76e1eb3175ada3e">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1d772c633fcbd759733319daace281268914b211/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_90665ce9e564dc75d909e279035a617ee75f2ae2/classes.dex" />
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7f16e52c2a516eeef4b0d86b5fde2edc27eb7f04/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1b827f9877d65563e65161e385165f6df0ec2c97/classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_975abd82024fd51f3092d4fa85b7c9c47b6f2eb6/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_70be1a803f9f4ba1755198ffa1a7fc7602ae72d5/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ec027bc082dae0b9026cab40b52765bddb12dbf4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -278,142 +197,43 @@
         optimize="true"
         revision="24.0.3"
         sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_cfdcdf33e69648869c338d1faeb7019487349f08/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_cfdcdf33e69648869c338d1faeb7019487349f08/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_2111465144e8dfb4f7086ac0f41d80be96d6fdc7/classes.dex" />
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_1f50207e5852e0faa82fd7dd65aafe89d07c5024/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_1b78e3ce17ba531d5bc8789d4d22b576c8ff7dad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_bc1cc4a5d238976445c97799ca59d5b2e050b8e3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2d500c76c4a286323dd36a7141518693c265114e">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bfb35bc4061ba2f9010c862123b3c288a0279b3f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_079fd39a7e03208e78afebd4653160dbbc492281/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b4c133eeb1c5f9cd9350e3852a0f180a09d11509/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_acf1b122a3e0a058c00c6a4067d1857c92248f5e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c3417da8ae54859992c1f7599a9a69a457457693">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b0ecc0af816cc43117568b3141003ef22cdbdc06/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_a56043652003d50b036198dda13e13b985a4e9db/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="12c6c39ac00b5c03a8405fd9112c4438c7baf244">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_627e33a662f51fec725dd46961a76854d13091f7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_334d479c81a39ab83e9a682eb3dfd16a3b89701b/classes.dex" />
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_45f403f643aae4a1fb44e08d08f7c3a11a8b9c34/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9bf36204ed9aba6e204a6c5abec54522147cdc2f">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c2a00509fff39beecc56219de2eacb3b72346cd2/classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_146ba4af3d3e656fd7121e1ebbef0ca5e6bc1195/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/MarvelHeroes/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_51c19ae8c4efb5a891f248875924465dec05c7e7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a814109c5c0ab83dabbe2dfd9a80f5e3e9b71402/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_10a52fcc0e3290b0611e5f9ed24d8be73657590c/classes.dex" />
+        sha1="5c8a29a8a59491be2248a34b8e554add28edee68">
+        <dex dex="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_311dd79117f736f3788cb83fc8ee107df914261c/classes.dex" />
     </item>
 
 </items>

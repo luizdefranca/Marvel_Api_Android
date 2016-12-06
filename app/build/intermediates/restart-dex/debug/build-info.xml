@@ -2,50 +2,50 @@
 <instant-run
     abi="x86"
     api-level="21"
-    density="xxhdpi"
+    density="tvdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="81180152001475"
-    token="-274452722892241390"
+    timestamp="26005727836804"
+    token="7376187100431316602"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="438" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="16" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="38" />
+        duration="0" />
     <task
         name="verifier"
-        duration="3" />
+        duration="0" />
 
     <artifact
-        location="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="80979383593861"
+        timestamp="25061750631642"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/outputs/apk/app-debug.apk"
+            location="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="81146278650449"
-        verifier="COMPATIBLE" >
+        timestamp="25141527744889"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/builds/debug/81146278650449/classes.dex"
-            type="RELOAD_DEX" />
+            location="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
     </build>
     <build
-        timestamp="81180152001475"
+        timestamp="26005727836804"
         verifier="COMPATIBLE" >
         <artifact
-            location="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android/app/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
+            location="/Users/luizramos/AndroidStudioProjects/Marvel_Api_Android-master/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
